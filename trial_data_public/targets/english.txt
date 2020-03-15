@@ -1,0 +1,4 @@
+walk
+distance
+small
+god

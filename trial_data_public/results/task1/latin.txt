@@ -1,0 +1,4 @@
+necessarius	0
+nepos	1
+pontifex	1
+virtus	0

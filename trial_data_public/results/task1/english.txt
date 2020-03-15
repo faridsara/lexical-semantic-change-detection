@@ -1,0 +1,4 @@
+walk	0
+distance	1
+small	1
+god	1
